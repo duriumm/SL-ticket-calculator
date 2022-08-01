@@ -53,3 +53,4 @@ for msg in messages:
 
 with open(txt_file_location, "a") as a_file:
   a_file.write(f"\nTotal sum all time: {total_sum_all_time}")
+
