@@ -1,0 +1,6 @@
+Here is the total sum in Kr of all the tickets, sorted by month
+
+Ticket price sum of May is: 325.0
+Ticket price sum of June is: 923.0
+Ticket price sum of July is: 585.0
+Total sum all time: 1833.0
