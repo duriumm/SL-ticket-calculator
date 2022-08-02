@@ -8,11 +8,14 @@ Here is what it looks like:
 
 ![image](https://user-images.githubusercontent.com/55485130/182166942-7c7f43bc-cc30-4382-ba22-f7e09bca6434.png)
 
-How to use:
+## How to use:
 
 The code is run with a .bat script that is scheduled to go every month but it can also be run manually :)
 
-Run the .bat file shown in the image
+1. Run the .bat file shown in the image
 
 ![image](https://user-images.githubusercontent.com/55485130/182302626-57807499-5cf6-4c88-9f75-adaadd082e7d.png)
-The results will appear in the .txt file and will overwrite any previous text
+
+2. The results will appear in the .txt file and will overwrite any previous text
+
+3. The Files need to be in this specific dir for it to run without issue
